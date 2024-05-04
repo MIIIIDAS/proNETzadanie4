@@ -1,0 +1,1 @@
+Zadanie 4. Proszę napisać program, który wczyta linia po linii tekst zawarty w pliku tekstowym, i wyświetli na konsoli te kolejne linie w postaci od ostatniego znaku do pierwszego. Np. dla napisu: „to jest tekst” w konsoli zostanie wyświetlony napis: „tsket tsej ot”.
